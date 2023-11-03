@@ -1,4 +1,4 @@
-module source.monocypher;
+module monocypher;
 
 public {
     import sol_rb;

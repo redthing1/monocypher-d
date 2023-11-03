@@ -4,3 +4,5 @@ authors "redthing1"
 copyright "Copyright © 2023, redthing1"
 license "proprietary"
 targetType "sourceLibrary"
+
+cSourcePaths "source"
