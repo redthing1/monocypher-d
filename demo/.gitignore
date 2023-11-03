@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/monocypher_demo
+monocypher_demo.so
+monocypher_demo.dylib
+monocypher_demo.dll
+monocypher_demo.a
+monocypher_demo.lib
+monocypher_demo-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst

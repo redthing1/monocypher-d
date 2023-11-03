@@ -1,0 +1,8 @@
+name "monocypher_demo"
+description "A minimal D application."
+authors "no"
+copyright "Copyright © 2023, no"
+license "proprietary"
+targetType "executable"
+
+dependency "monocypher-d" path=".."
